@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bloc,GetX and backend Developement**
 
-- 💬 Ask me about **Flutter,Dart,FireBase $ C\C++**
+- 💬 Ask me about **Flutter,Dart,FireBase & C\C++**
 
 - 📫 How to reach me **paillanavyapreethamreddy@gmail.com**
 
