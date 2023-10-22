@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daemonvk18&label=Profile%20views&color=0e75b6&style=flat" alt="daemonvk18" /> </p>
 
-- 🌱 I’m currently learning **Bloc,GetX and node.js**
+- 🌱 I’m currently learning **Bloc,GetX state management and Rust**
 
 - 💬 Ask me about **Flutter,Dart,FireBase & C\C++**
 
