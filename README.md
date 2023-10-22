@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bloc,GetX state management and Rust**
 
-- 💬 Ask me about **Flutter,Dart,FireBase & C\C++**
+- 💬 Ask me about **Flutter,Dart,FireBase,C\C++ & java**
 
 - 📫 How to reach me **paillanavyapreethamreddy@gmail.com**
 
