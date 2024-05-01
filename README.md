@@ -1,13 +1,13 @@
 
-<h1 align="left">Hi 👋, I'm Navya Preetham</h1>
+<h1 align="left">Hi 👋, I'm Navya Preetham Reddy</h1>
 <h3 align="left">I am CSE undergrad</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daemonvk18&label=Profile%20views&color=0e75b6&style=flat" alt="daemonvk18" /> </p>
 
-- 🌱 I’m currently learning **Bloc,GetX state management**
+- 🌱 I’m currently learning **Bloc,state management,ML**
 
-- 💬 Ask me about **Flutter,Dart,FireBase,C\C++ & java**
+- 💬 Ask me about **Flutter,Dart,FireBase,Deep Learning**
 
 - 📫 How to reach me **paillanavyapreethamreddy@gmail.com**
 
