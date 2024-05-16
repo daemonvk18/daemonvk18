@@ -5,9 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daemonvk18&label=Profile%20views&color=0e75b6&style=flat" alt="daemonvk18" /> </p>
 
-- 🌱 I’m currently learning **Bloc,state management,ML**
+- 🌱 I’m currently learning **Bloc & GetX state managments,ML**
 
-- 💬 Ask me about **Flutter,Dart,FireBase,Deep Learning**
+- 💬 Ask me about **Flutter,FireBase,python,Deep Learning**
 
 - 📫 How to reach me **paillanavyapreethamreddy@gmail.com**
 
