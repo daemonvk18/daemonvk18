@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring **Bloc, getX state management, ML and NLP**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-eight-pi-42.vercel.app](my-portfolio-eight-pi-42.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-eight-pi-42.vercel.app)
 
 - 💬 Ask me about **Dart,Python,Flutter ,FireBase, Fast API**
 
